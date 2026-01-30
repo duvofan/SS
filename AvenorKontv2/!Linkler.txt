@@ -1,0 +1,15 @@
+KONTROL SIRASINDA İNDİRİLECEK
+SystemInformer: https://github.com/winsiderss/si-builds/releases/download/3.2.25365.952/systeminformer-build-canary-setup.exe
+
+DOSYADA BULUNAN
+PathsParser: https://github.com/spokwn/PathsParser/releases/download/v1.2/PathsParser.exe
+BAMParserDebug: https://github.com/spokwn/BAM-parser/releases/download/v1.2.9/BAMParserDebug.exe
+BrowserDownloadsView: https://www.nirsoft.net/utils/browserdownloadsview-x64.zip
+Everything: https://www.voidtools.com/Everything-1.4.1.1032.x64-Setup.exe
+JournalTrace: https://github.com/spokwn/JournalTrace/releases/download/1.2/JournalTrace.exe
+LastActivityView: https://www.nirsoft.net/utils/lastactivityview.zip
+ProcessParser: https://github.com/spokwn/process-parser/releases/download/v0.5.5/ProcessParser.exe
+RedLoutsModAnalyzer: https://github.com/ItzIceHere/RedLotus-Mod-Analyzer/releases/download/RL/RedLotusModAnalyzer.exe
+RedLotusTaskSentinel: https://github.com/ItzIceHere/RedLotus-Task-Sentinel/releases/download/RL/RedLotusTaskSentinel.exe
+USBDeview: https://www.nirsoft.net/utils/usbdeview-x64.zip
+WinPrefetchView: https://www.nirsoft.net/utils/winprefetchview-x64.zip
